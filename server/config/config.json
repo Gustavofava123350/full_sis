@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "gustavo_fava",
+    "password": "Gustavo3241",
+    "database": "server",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "gustavo_fava",
+    "password": "Gustavo3241",
+    "database": "server",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "gustavo_fava",
+    "password": "Gustavo3241",
+    "database": "server",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
